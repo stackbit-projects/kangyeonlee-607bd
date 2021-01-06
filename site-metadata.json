@@ -69,7 +69,7 @@
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "",
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "fa-dev",
