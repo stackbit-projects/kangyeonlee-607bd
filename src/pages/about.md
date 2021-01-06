@@ -7,6 +7,7 @@ template: page
 ---
 
 **TYPE**
+
 Passionate Doer
 Excellent Time Manager
 Critical Thinker
