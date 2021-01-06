@@ -17,12 +17,9 @@ Fast Leaner
 
 Web & App Design/Computer Programming
 
+**DESIGN EXPERIENCE**
 
-Exceptional understanding of computer programming, web application works and bring excellent ideas
-• Excellent time management, prioritization skills, and ability to meet deadlines
-• Strong responsibility, problem analysis, and problem-solving skills with attention to detail
-• Productive and collaborative team player with strong interpersonal skills
-• Positive, dynamic, self-motivated fast learner and achievement-oriented
+5 years
 
 
 
