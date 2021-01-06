@@ -6,14 +6,7 @@ sections:
     type: section_hero
     title: 'Hello, I am Kangyeon Lee!'
     content: I am a UI Designer and Junior Web Developer
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - section_id: about
     type: section_content
     title: ''
