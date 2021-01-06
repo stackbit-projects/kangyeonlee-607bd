@@ -8,9 +8,9 @@ template: page
 
 **TYPE**
 
-Passionate Doer
-Excellent Time Manager
-Critical Thinker
+Passionate Doer/
+Excellent Time Manager/
+Critical Thinker/
 Fast Leaner
 
 **MY BACKGRAOUND**
