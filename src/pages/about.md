@@ -6,9 +6,9 @@ img_alt: Portrait of a man with beard and mustache
 template: page
 ---
 
-**TYPE**
+<color>**TYPE**</color>
 
-<cite>Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner</cite>
+Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner
 
 **MY BACKGRAOUND**
 
