@@ -8,10 +8,7 @@ template: page
 
 **TYPE**
 
-Passionate Doer/
-Excellent Time Manager/
-Critical Thinker/
-Fast Leaner
+Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner
 
 **MY BACKGRAOUND**
 
@@ -21,7 +18,9 @@ Web & App Design/Computer Programming
 
 5 years
 
+**SKILLS**
 
+Adobe Photoshop / Adobe illustrator / Adobe XD / C / C++ / SQL / MySQL / Javascript / HTML5 / CSS / Java / Node.js 
 
 
 
