@@ -1,7 +1,7 @@
 ---
 title: 'Nice to meet you - This is Kangyeon : )'
 subtitle: I love design and programming!
-img_path: images/0112.jpeg
+img_path: images/0112.png
 img_alt: Portrait of a man with beard and mustache
 template: page
 ---
