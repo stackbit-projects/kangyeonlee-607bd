@@ -18,7 +18,8 @@
             {
                 "label": "Works",
                 "url": "/blog/",
-                "style": "link"
+                "style": "link",
+                "no_follow": true
             },
             {
                 "label": "Style Guide",
