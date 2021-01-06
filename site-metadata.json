@@ -73,7 +73,7 @@
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "fa-dev",
-                "new_window": true,
+                "new_window": false,
                 "no_follow": false
             }
         ]
