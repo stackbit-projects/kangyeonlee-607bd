@@ -8,7 +8,7 @@ template: page
 
 **TYPE**
 
-Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner
+<cite>Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner<cite>
 
 **MY BACKGRAOUND**
 
