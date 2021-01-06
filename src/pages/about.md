@@ -6,7 +6,34 @@ img_alt: Portrait of a man with beard and mustache
 template: page
 ---
 
-**John Doe**                                                                                            is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**TYPE**
+
+Passionate Doer
+
+Excellent Time Manager
+
+Critical Thinker
+
+Fast Leaner
+
+**MY BACKGRAOUND**
+
+Web & App Design
+
+Computer Programming
+
+
+Exceptional understanding of computer programming, web application works and bring excellent ideas
+• Excellent time management, prioritization skills, and ability to meet deadlines
+• Strong responsibility, problem analysis, and problem-solving skills with attention to detail
+• Productive and collaborative team player with strong interpersonal skills
+• Positive, dynamic, self-motivated fast learner and achievement-oriented
+
+
+
+
+
+is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
