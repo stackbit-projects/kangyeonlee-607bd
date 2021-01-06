@@ -7,7 +7,7 @@ excerpt: >-
   meters).
 date: '2019-03-10'
 thumb_img_alt: Hikers on the trail
-content_img_alt: Hikers on the trail
+content_img_alt: ''
 template: post
 ---
 
