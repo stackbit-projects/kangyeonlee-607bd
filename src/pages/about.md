@@ -15,9 +15,7 @@ Fast Leaner
 
 **MY BACKGRAOUND**
 
-Web & App Design
-
-Computer Programming
+Web & App Design/Computer Programming
 
 
 Exceptional understanding of computer programming, web application works and bring excellent ideas
