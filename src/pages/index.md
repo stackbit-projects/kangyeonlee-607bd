@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
   - section_id: about
     type: section_content
-    title: About
+    title: ''
     content: >-
       I am a curious individual, a human observer, a team’s pencil sharpener,
       and a UI designer.
