@@ -25,6 +25,13 @@ sections:
       - label: SAY HELLO
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: ''
   - section_id: recent-posts
     type: section_posts
