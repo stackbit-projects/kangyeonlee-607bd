@@ -28,7 +28,7 @@ sections:
     image_alt: ''
   - section_id: recent-posts
     type: section_posts
-    title: ''
+    title: lklk
     posts_number: 4
     actions:
       - label: View Blog
