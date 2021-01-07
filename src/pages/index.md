@@ -29,7 +29,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     title: ''
-    posts_number: 4
+    posts_number: 2
     actions:
       - label: View Blog
         url: blog/index.html
