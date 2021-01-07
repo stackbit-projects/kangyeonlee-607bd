@@ -18,7 +18,7 @@
             {
                 "label": "Works",
                 "url": "/blog/",
-                "style": "button",
+                "style": "icon",
                 "no_follow": true,
                 "new_window": false
             },
