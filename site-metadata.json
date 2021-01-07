@@ -20,7 +20,7 @@
                 "url": "/blog/",
                 "style": "link",
                 "no_follow": true,
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Style Guide",
