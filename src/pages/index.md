@@ -25,7 +25,7 @@ sections:
       - label: SAY HELLO
         url: /contact
         style: button
-    image_alt: kk
+    image_alt: ''
   - section_id: recent-posts
     type: section_posts
     title: ''
