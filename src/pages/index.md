@@ -25,6 +25,7 @@ sections:
       - label: SAY HELLO
         url: /contact
         style: button
+    image: images/스크린샷 2020-11-01 오후 7.09.24.png
   - section_id: recent-posts
     type: section_posts
     title: ''
